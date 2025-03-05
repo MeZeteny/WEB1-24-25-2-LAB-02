@@ -13,4 +13,21 @@ h1 {
     width: 180px;
     margin: 3px;
     display: inline-block;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+.user-card.active {
+    background-color: lightsalmon;
+}
+
+.user-card h2 {
+    font-family: Helvetica;
+    font-weight: 700;
+    font-size: 1.1em;
+    text-align: center;
+}
+
+.user-card:hover {
+    background-color: blanchedalmond;
 }
