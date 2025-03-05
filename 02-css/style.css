@@ -1,0 +1,16 @@
+h1 {
+    color: darkgrey;
+    font-family: sans-serif;
+    font-size: 1.5em;
+}
+
+
+.user-card {
+    border: 1px solid black;
+    background-color: lightblue;
+    padding: 0 5px;
+    height: 200px;
+    width: 180px;
+    margin: 3px;
+    display: inline-block;
+}
